@@ -1,0 +1,29 @@
+#home-bar{
+    border-style: solid;
+    height: 3em;
+    text-align: center;
+    background-color: white;
+}
+.title{
+    background-color: deepskyblue;
+}
+.section {
+   
+    margin-top: .5em;
+    font-size: 2em;
+    background-color: white;
+    width: 100%;
+}
+.twitter {
+    border-style: solid;
+}
+.body{
+    background-color: rgb(235, 235, 235)
+}
+.post{
+    
+    margin-top: 1px;
+    font-size: 2em;
+    background-color: white;
+    width: 100%; 
+}
